@@ -8,3 +8,4 @@ Even I, a website developer, failed many times, especially in JS/HTML.
 But, I kept on going, and now I have 13 websites up!
 Thank you very much and keep on coding!.
 FYI, if you want to learn how to make websites, click on this:https://www.khanacademy.org/computing/computer-programming/html-css
+See ya and keep on learning!

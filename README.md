@@ -5,5 +5,6 @@ Learn something new!
 Try something out!
 And do not be afraid to make mistakes.
 Even I, a website developer, failed may times, especially in JS/HTML.
-But, I kept on going, and now I have 13 websites up!
+But, I kept on going, and now I have more than 13 websites up!
 Thank you.
+Note: Thanks to Freepik from https://www.flaticon.com!
